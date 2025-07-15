@@ -1,12 +1,19 @@
-# React + Vite
+🧠 NextYear.AI
+The world's most unnecessary AI project — just enter a year and watch the magic of addition unfold... slowly. 🕰️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Predict the Obvious
+A React app that spends 15 seconds to figure out what comes after 2025.
+Efficiency? Never heard of it.
 
-Currently, two official plugins are available:
+😂 Serious Tech for a Simple Task
+Powered by fake AI, real loading bars, and pure nonsense.
+Now accepting pizza-based sponsorships.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔮 Temporal Innovation
+After months of procrastination, we finally built an app... that tells you what year comes next.
+Yes, we’re proud. No, we won’t stop.
 
-## Expanding the ESLint configuration
+🧪 "AI" Meets Calendar
+A parody project showcasing deep sarcasm and shallow logic.
+Built with React, love, and 0 regrets.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
